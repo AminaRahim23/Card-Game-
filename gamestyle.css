@@ -2,7 +2,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     margin:0;
-    background-color: #1687A7;
+    background-color: #070504;
 }
 
 p {
@@ -24,7 +24,7 @@ table {
 #inst {
     width: 85%;
     height: 75%;
-    background-color: #F9F9F9;
+    background-color: black;
     text-align: center;
     margin-top:10vh;
     backdrop-filter: blur(10px);
@@ -34,7 +34,7 @@ table {
     line-height: 2;
 }
 li {
-    color: #787A91;
+     color: white;
     text-align: left;
     padding: 5px;
 }
@@ -44,7 +44,7 @@ li {
     height:100%;
     width:100%;
     background-color: rgba(0,0,0,0.8);
-    color: #8f8f8f;
+      color: white;
     backdrop-filter: blur(8px);
     z-index:2;
 
@@ -130,7 +130,8 @@ li {
 }
 
 .modes {
-  background-color: #8f8f8f;
+     background-color: black;
+  color: white;
 }
 
 .modes, .modes2 {
