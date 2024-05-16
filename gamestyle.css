@@ -35,8 +35,12 @@ table {
     line-height: 2;
 }
 li {
+<<<<<<< HEAD
     color: white;
     list-style-type: upper-latin;
+=======
+     color: white;
+>>>>>>> d02ed23254c127fbe14e41fed4e5f82fa39a838e
     text-align: left;
     padding: 5px;
 }
@@ -46,7 +50,11 @@ li {
     height:100%;
     width:100%;
     background-color: rgba(0,0,0,0.8);
+<<<<<<< HEAD
     color: white;
+=======
+      color: white;
+>>>>>>> d02ed23254c127fbe14e41fed4e5f82fa39a838e
     backdrop-filter: blur(8px);
     z-index:2;
 
